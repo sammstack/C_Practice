@@ -21,5 +21,5 @@ return 0;
 }
 
 /* while is been used in case you dont know how much time it should run,the loop repeats continuously and stops only when user gives the output
-   used define so as to reduce the RAM usage
+   used define and symbolic constants so as to reduce the RAM usage
 */
